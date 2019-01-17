@@ -29,7 +29,7 @@ A basic frontend framework which allows templating, state management and Virtual
 
 You can insall it using `npm` package
 
-`npm install memejs`
+`npm install @arjunhegde372/memejs`
 
 # Future
 
