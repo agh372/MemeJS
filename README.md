@@ -25,6 +25,8 @@ A basic frontend framework which allows templating, state management and Virtual
 
 `suchImgMuchWow` represents `svg` element
 
+You can checkout a sample in `src` folder
+
 # Installation
 
 You can insall it using `npm` package
