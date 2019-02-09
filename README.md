@@ -1,5 +1,8 @@
 # MemeJS
 
+![asset 9 4x](https://user-images.githubusercontent.com/37753430/52513290-76087080-2bcf-11e9-978b-8b11415beae1.png)
+
+
 A basic frontend framework which allows templating, state management and Virtual DOM usage.
 
 # Usage
